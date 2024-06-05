@@ -6,7 +6,12 @@ Im currently working on it, so its possible that i will upload updated Versions.
 
 If you like it you can leave a little tip vie Paypal :) mazlum-dag1996@hotmail.de
 
+[![Donate with PayPal](https://raw.githubusercontent.com/AbuBakrAlKurdi/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A
+)
+
+
 https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A
+
 
 
 ![Screenshot 2024-06-05 120602](https://github.com/AbuBakrAlKurdi/TFT-Itemboard/assets/169247028/d8952aec-f7dc-435b-9af9-dccc6c6cbcc1)
