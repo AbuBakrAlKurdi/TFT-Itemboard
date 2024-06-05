@@ -6,12 +6,7 @@ Im currently working on it, so its possible that i will upload updated Versions.
 
 If you like it you can leave a little tip vie Paypal :)
 
-
-[![Donate with PayPal](https://raw.githubusercontent.com/AbuBakrAlKurdi/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A
-)
-
-
-https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A)
 
 
 
@@ -26,7 +21,6 @@ https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A
 
 
 
-## :eyes: Demonstration
 
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A)
 
