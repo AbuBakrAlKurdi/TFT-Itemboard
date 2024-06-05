@@ -37,8 +37,7 @@ https://www.paypal.com/donate/?hosted_button_id=XJQ7X87GQB25A
   ![Donate with PayPal]
   (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
 ]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
-```
+
 
 ### HTML
 
